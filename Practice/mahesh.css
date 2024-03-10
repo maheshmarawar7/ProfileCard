@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(178, 178, 16);
+}
+#mah{
+    color: blue;
+}
+#mah:hover{
+    color: burlywood;
+
+}
+.nav{
+    width: 300px;
+
+    display: flex;
+    justify-content: space-between;
+
+}
